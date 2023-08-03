@@ -1,8 +1,10 @@
-<h3 align="center">Apps by Pedro Cerrano</h3>
+<h1 align="center">Apps by Pedro Cerrano</h1>
 
 
-## OneYes app Support:
-To contact OneYes App Support, please email: OneYesApp@gmail.com
+## OneYes App
+To contact the OneYes App Support team, please email: OneYesApp@gmail.com
 
-## Rom Com Role Play app Support:
-To contact the RomCom Role Play App Support, please email: RomComRolePlaySupport@gmail.com
+
+
+## Rom Com Role Play
+To contact the RomCom Role Play App Support team, please email: RomComRolePlaySupport@gmail.com
