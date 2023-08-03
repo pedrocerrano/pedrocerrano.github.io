@@ -3,7 +3,7 @@
 
 <br>
 
-![screenshot](/assets/images/OneYes-Header_Small.png)
+![screenshot](/assets/images/OneYes-Header_Small2.png)
 ## OneYes App
 
 If there’s something you really want, that that you keep trying to get, don’t be afraid to hear “No”
