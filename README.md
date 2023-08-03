@@ -1,4 +1,5 @@
-# Pedro Cerrano is an independent iOS Developer who builds and manages iPhone apps.
+<h3 align="center">Apps by Pedro Cerrano</h3>
+
 
 ## OneYes app Support:
 To contact OneYes App Support, please email: OneYesApp@gmail.com
