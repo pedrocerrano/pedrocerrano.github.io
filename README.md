@@ -1,3 +1,7 @@
-# To contact the OneYes App Support, please contact: OneYesApp@gmail.com
+# Pedro Cerrano is an independent iOS Developer who builds and manages iPhone apps.
 
-# To contact the RomCom Role Play App Support, please contact: RomComRolePlaySupport@gmail.com
+## OneYes app Support:
+To contact OneYes App Support, please email: OneYesApp@gmail.com
+
+## Rom Com Role Play app Support:
+To contact the RomCom Role Play App Support, please email: RomComRolePlaySupport@gmail.com
