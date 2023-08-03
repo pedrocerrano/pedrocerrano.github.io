@@ -26,4 +26,4 @@ Couples split into teams and are given two roles and a setting with only 60 seco
 
 Fall in love again and again with Rom Com Role Play!
 
-**To contact the RomCom Role Play App Support team, please email: RomComRolePlaySupport@gmail.com**
+**To contact the Rom Com Role Play Support team, please email: RomComRolePlayApp@gmail.com**
