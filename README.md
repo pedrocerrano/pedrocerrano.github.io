@@ -1,5 +1,5 @@
 
-<h1 align="center">Apps by Pedro Cerrano</h1>
+# Apps by Pedro Cerrano
 
 <br>
 
