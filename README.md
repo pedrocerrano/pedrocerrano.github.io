@@ -1,6 +1,7 @@
 
 <h1 align="center">Apps by Pedro Cerrano</h1>
 
+<br>
 
 ![screenshot](/assets/images/OneYes-Header_Thin.png)
 ## OneYes App
@@ -11,11 +12,8 @@ To change your perception, imagine if I told you that you would be told no 25 ti
 
 When you reach for success, sometimes all it takes is one “Yes”
 
-<br>
-
 **To contact the OneYes App Support team, please email: OneYesApp@gmail.com**
 
-<br>
 <br>
 
 ![screenshot](/assets/images/RomComRolePlay-Header_Thin.png)
@@ -27,7 +25,5 @@ We all know the movie channel with the predictable romance script to fall in lov
 Couples split into teams and are given two roles and a setting with only 60 seconds to fall in love. The other team will rate your performance, and the couple with the most points at the end, wins!
 
 Fall in love again and again with Rom Com Role Play!
-
-<br>
 
 **To contact the RomCom Role Play App Support team, please email: RomComRolePlaySupport@gmail.com**
