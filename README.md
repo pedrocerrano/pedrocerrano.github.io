@@ -3,7 +3,7 @@
 
 <br>
 
-![screenshot](/assets/images/OneYes-Header_Thin.png)
+![screenshot](/assets/images/OneYes-Header_Small.png)
 ## OneYes App
 
 If there’s something you really want, that that you keep trying to get, don’t be afraid to hear “No”
@@ -16,7 +16,7 @@ When you reach for success, sometimes all it takes is one “Yes”
 
 <br>
 
-![screenshot](/assets/images/RomComRolePlay-Header_Thin.png)
+![screenshot](/assets/images/RomComRolePlay-Header_Small.png)
 
 ## Rom Com Role Play
 
